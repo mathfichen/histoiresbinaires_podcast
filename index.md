@@ -10,14 +10,14 @@ A travers le projet de podcast *Histoires Binaires*, je souhaite raconter l’in
 
 Voici la trame des épisodes envisagés à ce jour et qui pourra si nécessaire évoluer au fil du projet
 
-1. **Episode 1** L’automatisation du calcul : les premières machines mécaniques de Pascal à Babbage.
+1. **Episode 1** L’automatisation du calcul : les premières machines mécaniques de Pascal à Babbage
 2. **Episode 2** Ada Lovelace et le premier algorithme
 3. **Episode 3** Le raisonnement comme un calcul : l’algèbre de Boole 
-4. **Episode 4** La naissance du bit, Claude Shannon 
+4. **Episode 4** La naissance du bit : Claude Shannon 
 5. **Episode 5** Les grands calculateurs des années 40 
-6. **Episode 6** Le premier ordinateur théorique, la machine de Turing
+6. **Episode 6** Le premier ordinateur théorique : la machine de Turing
 7. **Episode 7** Les premiers ordinateurs électroniques programmables 
-8. **Episode 8** Un ordinateur peut-il penser ?  Le Test de Turing 
+8. **Episode 8** Un ordinateur peut-il penser ? Le Test de Turing 
 9. **Episode 9** Peut-on tout simuler ? La thèse physique de Church 
 
 ## Qui suis-je ?
