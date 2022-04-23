@@ -4,7 +4,7 @@ Alors que l’informatique est omniprésente dans nos vies, la place que lui ré
 
 ## Le projet
 
-A travers le projet de podcast *Histoires Binaires*, je souhaite raconter l’informatique comme une épopée historique et philosophique, rendue accessible au plus grand nombre sans prérequis de connaissances scientifiques. Ma voix tiendra lieux de fil rouge narratif qui reliera les propos des différents intervenants : historien.ne, informaticien.ne, philosophe ou encore romancier.e. Les épisodes s’enchaîneront selon une logique chronologique et auront une durée comprise entre 20 et 30 minutes chacun. Mes discussions avec les différents intervenants seront également l’occasion de les interroger sur leur rapport à l’informatique et sur le cheminement qui les a amenés à se pencher sur cette discipline.  
+A travers le projet de podcast *Histoires Binaires*, je souhaite raconter l’informatique comme une fresque historique et philosophique, rendue accessible au plus grand nombre sans prérequis de connaissances scientifiques. Ma voix tiendra lieux de fil rouge narratif qui reliera les propos des différents intervenants : historien.ne, informaticien.ne, philosophe ou encore romancier.e. Les épisodes s’enchaîneront selon une logique chronologique et auront une durée comprise entre 20 et 30 minutes chacun. Mes discussions avec les différents intervenants seront également l’occasion de les interroger sur leur rapport à l’informatique et sur le cheminement qui les a amenés à se pencher sur cette discipline.  
 
 ## Les épisodes
 
