@@ -11,7 +11,7 @@ My research interests intersect the domains of Computer Science History, Softwar
 
 My Ph.D. research delves into the history of Prolog, a programming language conceived in 1972 at the University of Marseille. Prolog introduced a groundbreaking programming paradigm known as 'logic programming,' particularly well-suited for symbolic artificial intelligence applications and knowledge systems manipulation. Through an exploration of Prolog's history, my aim is to illuminate the underlying mechanisms contributing to the 'AI effect' and encourage a critical examination of the current excitement surrounding generative AI.
 
-Furthermore, studying Prolog provides insight into the often-overlooked history of the European AI scene from the 1970s to the 1990s, offering an alternative narrative to the predominantly American perspective. In my Ph.D., I will employ approaches rooted in externalist history and science and technology studies (STS).
+Furthermore, studying Prolog provides insight into the often-overlooked history of the European AI scene from the 1970s to the 1990s, offering an alternative narrative to the predominantly American perspective. In my Ph.D., I will employ approaches rooted in internalist history, externalist history and science and technology studies (STS).
 
 See my Ph.D proposal here (in French). 
 
