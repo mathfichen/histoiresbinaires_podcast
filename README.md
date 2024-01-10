@@ -17,5 +17,5 @@ See my Ph.D proposal here (in French).
 
 ## Organization of conferences, workshops, and seminars
 
-[Software Heritage 2024 Sympoisum](https://www.softwareheritage.org/symposium-and-summit-2024/), Organisation, UNESCO, Paris, February 1st 2024
-[SWHAP Workshop, Presenting and Curating Legacy Software](https://hal-lara.archives-ouvertes.fr/hal-04251779), Content and Organisation, Inria, Paris, September 14th and 15th 2023
+- [Software Heritage 2024 Sympoisum](https://www.softwareheritage.org/symposium-and-summit-2024/), Organisation, UNESCO, Paris, February 1st 2024
+- [SWHAP Workshop, Presenting and Curating Legacy Software](https://hal-lara.archives-ouvertes.fr/hal-04251779), Content and Organisation, Inria, Paris, September 14th and 15th 2023
