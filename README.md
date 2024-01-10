@@ -26,5 +26,5 @@ See my [Ph.D proposal here](https://cnam-my.sharepoint.com/:b:/g/personal/mathil
 -  [Inria CS Museum](https://www.inria.fr/fr/du-shape-aux-inventeurs-du-numerique), [Exhibition panels](https://cnam-my.sharepoint.com/:b:/g/personal/mathilde_fichen_lecnam_net/EQKaitbESVxDmWRNV7HFXLYBW3fsY9_wB9pl6hKADIGqIA?e=IXoaNi) on CS history
 
 ## Contact
-:e-mail: mathilde.fichen [at] lecnam.net
-:mailbox_closed: HT2S-Cnam, Case 1LAB10, 2 rue Conté, 75003 Paris
+- :e-mail: mathilde.fichen [at] lecnam.net
+- :mailbox_closed: HT2S-Cnam, Case 1LAB10, 2 rue Conté, 75003 Paris
