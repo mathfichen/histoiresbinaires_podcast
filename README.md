@@ -23,4 +23,4 @@ See my [Ph.D proposal here](https://cnam-my.sharepoint.com/:b:/g/personal/mathil
 ## Science mediation and popularization
 
 - [Histoires Binaires](histoiresbinaires.github.io), Podcast Project (on hold)
--  [Inria CS Museum](https://www.inria.fr/fr/du-shape-aux-inventeurs-du-numerique), Exhibition panels on CS history
+-  [Inria CS Museum](https://www.inria.fr/fr/du-shape-aux-inventeurs-du-numerique), [Exhibition panels](https://cnam-my.sharepoint.com/:b:/g/personal/mathilde_fichen_lecnam_net/EQKaitbESVxDmWRNV7HFXLYBW3fsY9_wB9pl6hKADIGqIA?e=IXoaNi) on CS history
