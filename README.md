@@ -28,7 +28,7 @@ See my [Ph.D proposal here](https://cnam-my.sharepoint.com/:b:/g/personal/mathil
 
 ## Organization of conferences, workshops, and seminars
 
-- [So-Hist-Info](https://sohistinfo.github.io/), Seminar on History and Sociology of Informatics, Co-organizor, Every two months, Paris 
+- [So-Hist-Info](https://sohistinfo.github.io/), Research Seminar on Socio-History of Informatics, Co-organizor, Every two months, Paris 
 - [Software Heritage 2024 Sympoisum](https://www.softwareheritage.org/symposium-and-summit-2024/), Organizor, UNESCO, Paris, February 1st 2024
 - [SWHAP Workshop, Presenting and Curating Legacy Software](https://hal-lara.archives-ouvertes.fr/hal-04251779), Content and Organisation, Inria, Paris, September 14th and 15th 2023
 
